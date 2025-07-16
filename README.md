@@ -24,7 +24,6 @@ A dynamic web-based dashboard that enables users to import CSV or API data, filt
 
 ### 1. Clone the repo
 
-```bash
 git clone https://github.com/your-username/data-dashboard.git
 cd data-dashboard
 
